@@ -50,7 +50,7 @@ class DrivableMap {
         return false;
     }
 
-    /* TODO: Write a method named getTradable that takes no arguments and
+    /* Write a method named getTradable that takes no arguments and
      *       returns a List containing all of the Tradable items in
      *       drivable_map.
      */
